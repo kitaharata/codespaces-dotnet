@@ -6,6 +6,7 @@
   "features": {},
   "customizations": {},
   "forwardPorts": [
+    8080,
     5000,
     5001,
     5432
